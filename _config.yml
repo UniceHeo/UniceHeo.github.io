@@ -23,8 +23,8 @@ texture:
   disqus_shortname: various studies
   showNav: false
   navigation:
-    - title: JavaScript
-      url: "/javascript"
+  #  - title: JavaScript
+  #    url: "/javascript"
   # generate social links in footer
   social_links:
     github:  UniceHeo
