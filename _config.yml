@@ -21,7 +21,7 @@ texture:
   showNav: false
   showPicker: false
   disqus_shortname: various studies
-  showNav: true
+  showNav: false
   navigation:
     - title: JavaScript
       url: "/javascript"
