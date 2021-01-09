@@ -20,7 +20,11 @@ texture:
   style: blue
   showNav: false
   showPicker: false
-
+  disqus_shortname: various studies
+  showNav: true
+  navigation:
+    - title: JavaScript
+      url: "/javascript"
   # generate social links in footer
   social_links:
     github:  UniceHeo
